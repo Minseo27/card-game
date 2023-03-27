@@ -1,3 +1,4 @@
+
 import { useEffect, useState } from 'react';
 import Card from './components/Cards.js';
 import one from './components/icons/one.png';
@@ -36,7 +37,7 @@ function App() {
   const handleChoice = (card) => {
     choice1 ? setChoice2(card) : setChoice1(card)
   }
-
+  // check if the game is completed
   const checkClear = () => {
     let clear = true;
     for(const card of cards) {
@@ -103,3 +104,4 @@ function App() {
 }
 
 export default App;
+
