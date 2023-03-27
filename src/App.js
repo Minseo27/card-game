@@ -1,4 +1,3 @@
-
 import { useEffect, useState } from 'react';
 import Card from './components/Cards.js';
 import one from './components/icons/one.png';
@@ -80,11 +79,11 @@ function App() {
     setTurns(prevTurns => prevTurns+1)
     setDisabled(false)
   }
-  
+
   useEffect(() => {
     shuffle()
   }, [])
-  
+
   return (
     <div className="App">
       <h1>Memory Game</h1>
