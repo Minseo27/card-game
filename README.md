@@ -69,4 +69,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-I used a youtube vedio(https://youtu.be/wd3ofJGU0Wk) as a reference of this project.
+I used a youtube video(https://youtu.be/wd3ofJGU0Wk) as a reference of this project.
+Deployed page: "https://minseo27.github.io/card-game/"
