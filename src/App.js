@@ -87,7 +87,7 @@ function App() {
   
   return (
     <div className="App">
-      <h1>Card Game</h1>
+      <h1>Memory Game</h1>
       <button onClick={shuffle}>New Game</button>
       <p>Counts: {turns}</p>
       <div className="grid"> 
