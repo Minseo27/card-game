@@ -7,7 +7,7 @@
     padding: 5px;
     border-radius: 5px;
     align-items: center;
-    background-color: rgb(119, 41, 229);
+    background-color: rgb(105, 34, 205);
 }
 .card .front {
     transform: rotateY(90deg);
